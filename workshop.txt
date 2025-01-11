@@ -1,0 +1,13 @@
+version=1
+id=3397088783
+title=Consolidate Lighter
+description=This mod adds crafting recipes to consolidate lighter fuel.
+description=
+description=
+description=
+description=This item is not authorized for posting on Steam, except under the Steam account named Voguh.
+description=[code]
+description=This project is under GNU LESSER GENERAL PUBLIC LICENSE, Version 3.
+description=[/code]
+tags=Build 41;Items
+visibility=friendsOnly
